@@ -1,4 +1,4 @@
-# SystemVerilog Full-Duplex UART
+# SystemVerilog Full-Duplex UART Controller
 
 ## Overview
 A synthesizable, full-duplex Universal Asynchronous Receiver-Transmitter (UART) IP core written in SystemVerilog. The design uses 16x oversampling and double-flop metastability synchronization to reliably sample asynchronous serial data into a 100 MHz synchronous clock domain.
